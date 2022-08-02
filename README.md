@@ -32,7 +32,7 @@ git add . // Vai mandar todos os arquivos para uma área chamada Stage
 (Opcional) git status // Mostra as modificações a serem salvas
 git commit -m "Mensagem explicativa sobre" // Vai salvar a versão efetivamente
 git branch -M main // Por padrão agora o git salva como main, antigamente era Master. Esse comando garante caso tenha uma versão salva no computador como Master.
-git remote add origin git@github.com:"meuUsuario"/"meuRepositorio".git // Deixo salvo um repositório lá no git já
+git remote add origin git@github.com:"meuUsuario"/"meuRepositorio".git // Deixo salvo um repositório lá no git já, tem que ter o mesmo nome do repo as pastas do nosso projeto.
 git push -u origin main
 
     
