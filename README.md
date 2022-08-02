@@ -25,4 +25,15 @@ Para isso vamos:
 (2)Cadastrar essa chave no nosso Git:
     No meu git acessar Settings/SSH and GPG keys/New SSH key
     
+Salvar primeira versão de um projeto:
+Como exemplo posso deixar arquivos salvos em determinada pasta e dai começar:
+git init // Após comando acima já vai ser criada uma pasta .git
+git add . // Vai mandar todos os arquivos para uma área chamada Stage
+(Opcional) git status // Mostra as modificações a serem salvas
+git commit -m "Mensagem explicativa sobre" // Vai salvar a versão efetivamente
+git branch -M main // Por padrão agora o git salva como main, antigamente era Master. Esse comando garante caso tenha uma versão salva no computador como Master.
+git remote add origin git@github.com:"meuUsuario"/"meuRepositorio".git // Deixo salvo um repositório lá no git já
+git push -u origin main
+
+    
 
