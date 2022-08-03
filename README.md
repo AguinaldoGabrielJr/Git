@@ -4,9 +4,10 @@ Baixar git:
 https://git-scm.com/download
 
 Configurações de nome e email:
+```
 git config --global user.name "Seu nome"
 git config --global user.email "Seu email"
-
+```
 
 Verificar itens acima:
 git config --list
