@@ -20,7 +20,9 @@ No menu iniciar achar Opções do explorador de arquivos e fazer as seguintes mu
 
 
 Configurar chave SSH para o Github, novo sistema de segurança sem utilização de senha.
+
 Cadastrar previamente quais computadores podem acessar seu Git.
+
 Para isso vamos:
 (1)Gerar uma chave SSH no nosso computador:
   (1)Abra o Git Bash.
