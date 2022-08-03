@@ -24,9 +24,9 @@ Configurar chave SSH para o Github, novo sistema de segurança sem utilização 
 Cadastrar previamente quais computadores podem acessar seu Git.
 
 Para isso vamos:
-(1)Gerar uma chave SSH no nosso computador:
-  (1)Abra o Git Bash.
-  (2)ssh-keygen -t ed25519 -C "Seu email", ou ssh-keygen -t rsa -b 4096 -C "Seu email"
+- Gerar uma chave SSH no nosso computador:
+  - Abra o Git Bash.
+  - ssh-keygen -t ed25519 -C "Seu email", ou ssh-keygen -t rsa -b 4096 -C "Seu email"
     Ele vai perguntar se quero senha a minha escolha e sugerir local onde a chave vai ficar.
     Meu local foi Usuario/MeuUsuario/.ssh
 (2)Cadastrar essa chave no nosso Git:
