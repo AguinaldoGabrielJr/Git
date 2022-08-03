@@ -48,9 +48,8 @@ Como exemplo posso deixar arquivos salvos em determinada pasta e dai começar:
 
 Referente aos comandos acima:
 
-Após comando acima já vai ser criada uma pasta .git   
-
-Vai mandar todos os arquivos para uma área chamada Stage
+1. Após comando acima já vai ser criada uma pasta .git   
+2. Vai mandar todos os arquivos para uma área chamada Stage
 
 (Opcional) Mostra as modificações a serem salvas
 
