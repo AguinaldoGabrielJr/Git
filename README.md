@@ -27,9 +27,11 @@ Para isso vamos:
 - Gerar uma chave SSH no nosso computador:
   - Abra o Git Bash.
   - ssh-keygen -t ed25519 -C "Seu email", ou ssh-keygen -t rsa -b 4096 -C "Seu email"
-    Ele vai perguntar se quero senha a minha escolha e sugerir local onde a chave vai ficar.
+  
+ Ele vai perguntar se quero senha a minha escolha e sugerir local onde a chave vai ficar.
     Meu local foi Usuario/MeuUsuario/.ssh
-(2)Cadastrar essa chave no nosso Git:
+  
+ - Cadastrar essa chave no nosso Git:
     No meu git acessar Settings/SSH and GPG keys/New SSH key
     
 Salvar primeira versão de um projeto:
