@@ -1,7 +1,7 @@
 # Git tutorial
 
-Download git:
-[https://git-scm.com/download]
+[Download git:]
+(https://git-scm.com/download)
 
 Configurações de nome e email:
 ```
