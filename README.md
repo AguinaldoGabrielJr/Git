@@ -46,9 +46,16 @@ git remote add origin git@github.com:"meuUsuario"/"meuRepositorio".git
 git push -u origin main
 ```
 
-// Após comando acima já vai ser criada uma pasta .git   
-// Vai mandar todos os arquivos para uma área chamada Stage
-// (Opcional) Mostra as modificações a serem salvas
-// Vai salvar a versão efetivamente
-// Por padrão agora o git salva como main, antigamente era Master. Esse comando garante caso tenha uma versão salva no computador como Master.
-// Deixo salvo um repositório lá no git já, tem que ter o mesmo nome do repo as pastas do nosso projeto.
+Referente aos comandos acima:
+
+Após comando acima já vai ser criada uma pasta .git   
+
+Vai mandar todos os arquivos para uma área chamada Stage
+
+(Opcional) Mostra as modificações a serem salvas
+
+Vai salvar a versão efetivamente
+
+Por padrão agora o git salva como main, antigamente era Master. Esse comando garante caso tenha uma versão salva no computador como Master.
+
+Deixo salvo um repositório lá no git já, tem que ter o mesmo nome do repo as pastas do nosso projeto.
