@@ -37,13 +37,13 @@ Para isso vamos:
 Salvar primeira versão de um projeto:
 Como exemplo posso deixar arquivos salvos em determinada pasta e dai começar:
 ```
-git init 
-git add .
-git status 
-git commit -m "Mensagem explicativa sobre" /
-git branch -M main // 
-git remote add origin git@github.com:"meuUsuario"/"meuRepositorio".git 
-git push -u origin main
+1. git init 
+2. git add .
+3. git status 
+4. git commit -m "Mensagem explicativa sobre" 
+5. git branch -M main 
+6. git remote add origin git@github.com:"meuUsuario"/"meuRepositorio".git 
+7. git push -u origin main
 ```
 
 Referente aos comandos acima:
