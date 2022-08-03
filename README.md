@@ -50,11 +50,7 @@ Referente aos comandos acima:
 
 1. Após comando acima já vai ser criada uma pasta .git   
 2. Vai mandar todos os arquivos para uma área chamada Stage
-
-(Opcional) Mostra as modificações a serem salvas
-
-Vai salvar a versão efetivamente
-
-Por padrão agora o git salva como main, antigamente era Master. Esse comando garante caso tenha uma versão salva no computador como Master.
-
-Deixo salvo um repositório lá no git já, tem que ter o mesmo nome do repo as pastas do nosso projeto.
+3.(Opcional) Mostra as modificações a serem salvas
+4. Vai salvar a versão efetivamente
+5. Por padrão agora o git salva como main, antigamente era Master. Esse comando garante caso tenha uma versão salva no computador como Master.
+6. Deixo salvo um repositório lá no git já, tem que ter o mesmo nome do repo as pastas do nosso projeto.
