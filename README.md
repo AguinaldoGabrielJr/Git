@@ -36,8 +36,8 @@ Para isso vamos:
     
 Salvar primeira versão de um projeto:
 Como exemplo posso deixar arquivos salvos em determinada pasta e dai começar:
-git init // Após comando acima já vai ser criada uma pasta .git
-git add . // Vai mandar todos os arquivos para uma área chamada Stage
+```git init``` // Após comando acima já vai ser criada uma pasta .git
+```git add .```// Vai mandar todos os arquivos para uma área chamada Stage
 (Opcional) git status // Mostra as modificações a serem salvas
 git commit -m "Mensagem explicativa sobre" // Vai salvar a versão efetivamente
 git branch -M main // Por padrão agora o git salva como main, antigamente era Master. Esse comando garante caso tenha uma versão salva no computador como Master.
