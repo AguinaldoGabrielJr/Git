@@ -54,7 +54,7 @@ Referente aos comandos acima:
 4. Vai salvar a versão efetivamente
 5. Por padrão agora o git salva como main, antigamente era Master. Esse comando garante caso tenha uma versão salva no computador como Master.
 6. Deixo salvo um repositório lá no git já, tem que ter o mesmo nome do repo as pastas do nosso projeto.
-  - Preciso criar OBRIGATORIAMENTE o repositório lá no git que eu pego direto lá o item 6 acima.
+  - Preciso criar OBRIGATORIAMENTE o repositório lá no git que eu pego direto lá o item 6 acima. E também deixar algum arquivo dentro senão fica dando erro.
 7. Sobe no git.
 
 
