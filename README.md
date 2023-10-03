@@ -57,10 +57,17 @@ Referente aos comandos acima:
   - Preciso criar OBRIGATORIAMENTE o repositório lá no git que eu pego direto lá o item 6 acima. E também deixar algum arquivo dentro senão fica dando erro.
 7. Sobe no git.
 
-
+```
 Depois de criado para subir qualquer versão nova uso os seguintes comandos:
 1. git add .
 2. git commit -m "Mensagem explicativa sobre" 
 3. git branch -M main 
 4. git push -u origin main
+```
+Caso eu tenha um repositório existente uso os comandos
+
+```
+git remoto adicionar origem git@github.com:AguinaldoGabrielJr/docker.git
+git branch -M main 
+git push -u origin main
 ```
