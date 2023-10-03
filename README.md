@@ -67,7 +67,7 @@ Depois de criado para subir qualquer versão nova uso os seguintes comandos:
 Caso eu tenha um repositório existente uso os comandos
 
 ```
-git remoto adicionar origem git@github.com:AguinaldoGabrielJr/docker.git
+git remoto adicionar origem git@github.com:"meuUsuario"/"meuRepositorio".git 
 git branch -M main 
 git push -u origin main
 ```
